@@ -3,7 +3,7 @@ var checkDate = function(strDate, callback){
 	var d = parseInt(comp[0], 10);
 	var m = parseInt(comp[1], 10);
 	var y = parseInt(comp[2], 10);
-	if (isNaN(d) || isNaN(m) || isNaN(y)) {
+	if (comp.length != 3 || isNaN(d) || isNaN(m) || isNaN(y)) {
 		var err = new Error('input must be a type date');
 		return callback(err);
 	}
