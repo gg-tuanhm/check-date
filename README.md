@@ -6,7 +6,7 @@
 [![Download Status](https://img.shields.io/npm/dt/checkdate.svg)](https://www.npmjs.com/package/checkdate)
 [![License](https://img.shields.io/github/license/gg-tuanhm/check-date.svg)](https://github.com/gg-tuanhm/check-date/blob/develop/LICENSE)
 
-## Clone git
+## Git clone
 - git clone https://github.com/gg-tuanhm/check-date.git
 
 ## Install
