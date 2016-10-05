@@ -7,7 +7,9 @@
 [![License](https://img.shields.io/github/license/gg-tuanhm/check-date.svg)](https://github.com/gg-tuanhm/check-date/blob/develop/LICENSE)
 
 ## Git clone
-- git clone https://github.com/gg-tuanhm/check-date.git
+``` bash
+$ git clone https://github.com/gg-tuanhm/check-date.git
+```
 
 ## Install
 
@@ -21,7 +23,7 @@ $ npm install --save checkdate
 Run example to show results from log:
 
 ```
-npm start
+$ npm start
 ```
 ## Testing
 
