@@ -2,7 +2,9 @@
 
 [![Build Status](https://travis-ci.org/gg-tuanhm/check-date.svg?branch=master)](https://travis-ci.org/gg-tuanhm/check-date)
 [![Coverage Status](https://coveralls.io/repos/github/gg-tuanhm/check-date/badge.svg?branch=master)](https://coveralls.io/github/gg-tuanhm/check-date?branch=master)
-
+[![Stable Version](https://img.shields.io/npm/v/checkdate.svg)](https://www.npmjs.com/package/checkdate)
+[![Download Status](https://img.shields.io/npm/dt/checkdate.svg)](https://www.npmjs.com/package/checkdate)
+[![License](https://img.shields.io/github/license/gg-tuanhm/check-date.svg)](https://github.com/gg-tuanhm/check-date/blob/develop/LICENSE)
 
 ## Clone git
 - git clone https://github.com/gg-tuanhm/check-date.git
