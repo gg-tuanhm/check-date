@@ -1,5 +1,5 @@
 {
-  "name": "check-date",
+  "name": "checkdate",
   "version": "1.0.2",
   "description": "validate date",
   "main": "src/index.js",
