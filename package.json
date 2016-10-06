@@ -1,6 +1,6 @@
 {
-  "name": "checkdate",
-  "version": "1.0.0",
+  "name": "check-date",
+  "version": "1.0.2",
   "description": "validate date",
   "main": "src/index.js",
   "scripts": {
@@ -8,7 +8,7 @@
     "test": "istanbul cover ./node_modules/mocha/bin/_mocha --report lcovonly -- -R spec"
   },
   "keywords": [
-    "checkdate",
+    "check-date",
     "example"
   ],
   "author": "tuanhm",
