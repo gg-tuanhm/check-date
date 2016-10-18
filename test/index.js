@@ -46,7 +46,7 @@ describe('CheckDate', () => {
     });
 
     it('return false when date is 2017/11/15', (done) => {
-      check.checkDate('32/13/2017', (err, isCheck) => {
+      check.checkDate('2017/11/15', (err, isCheck) => {
         expect(err).to.equal(null);
         expect(isCheck).to.equal(false);
         done();
